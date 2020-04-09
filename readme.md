@@ -153,3 +153,4 @@ class MyModuleServiceProvider extends ServiceProvider
 ```
 
 
+teste

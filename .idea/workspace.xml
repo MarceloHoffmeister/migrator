@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c22fd36b-66c4-40ef-a090-20bd26a2b44b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Console/BaseCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console/BaseCommand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Console/FreshCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console/FreshCommand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Console/MigrateCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console/MigrateCommand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Migrator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Migrator.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aJeZ04ctX8mZCJ9uLzVPUtCdDU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c22fd36b-66c4-40ef-a090-20bd26a2b44b" name="Default Changelist" comment="" />
+      <created>1586458175023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586458175023</updated>
+      <workItem from="1586458176124" duration="3900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="285" width="530" height="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1586460830295">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="693" y="285" width="530" height="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1586460830295" />
+  </component>
+</project>
