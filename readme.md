@@ -1,7 +1,7 @@
 
 # marcelohoffmeister/migrator
 
-[![Latest Stable Version](https://poser.pugx.org/artesaos/migrator/v/stable)](https://packagist.org/packages/artesaos/migrator) [![Total Downloads](https://poser.pugx.org/artesaos/migrator/downloads)](https://packagist.org/packages/artesaos/migrator) [![Monthly Downloads](https://poser.pugx.org/artesaos/migrator/d/monthly)](https://packagist.org/packages/artesaos/migrator) [![License](https://poser.pugx.org/artesaos/migrator/license)](https://packagist.org/packages/artesaos/migrator)
+[![Latest Stable Version](https://poser.pugx.org/marcelohoffmeister/migrator/v/stable)](https://packagist.org/packages/marcelohoffmeister/migrator) [![Total Downloads](https://poser.pugx.org/marcelohoffmeister/migrator/downloads)](https://packagist.org/packages/marcelohoffmeister/migrator) [![Monthly Downloads](https://poser.pugx.org/marcelohoffmeister/migrator/d/monthly)](https://packagist.org/packages/marcelohoffmeister/migrator) [![License](https://poser.pugx.org/marcelohoffmeister/migrator/license)](https://packagist.org/packages/marcelohoffmeister/migrator)
 
 This package is a customized version of Laravel's default database migrator, it was designed to register migrations on services providers and support namespacing as well.
 
